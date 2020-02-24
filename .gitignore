@@ -1,0 +1,39 @@
+#ide file
+.git/
+.DS_Store
+.idea/
+.idea
+.swap*
+*.swap
+.swp*
+*.swp
+
+#vendor & log
+vendor/
+*vendor*
+*/vendor/*
+log
+log/
+*.log
+
+#gin run
+gin-bin/
+gin-bin
+gin-bin*
+
+#pprof & benchmark
+*.out
+*.test
+
+#MeeLine Build
+
+#MeeLine service Build
+
+
+#config file
+config.yml.example2
+config.yml
+config*.yml
+.vscode/launch.json
+
+
